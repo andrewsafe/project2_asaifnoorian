@@ -1,0 +1,39 @@
+# Build & IDE
+build*/
+build_*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.sln
+*.vcxproj*
+.vs/
+.vscode/
+.idea/
+
+# MSVC / binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.ipch
+*.pch
+*.aps
+
+# Qt autogen
+*_autogen/
+moc_*.cpp
+mocs_compilation_*.cpp
+.qmake.stash
+
+# Deployed runtime
+Release/
+Debug/
+x64/
+*.log
+
+# Misc
+.DS_Store
+Thumbs.db
