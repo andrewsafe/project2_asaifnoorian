@@ -138,18 +138,6 @@ See `class-diagram.puml` for the UML diagram.
 
 ---
 
-## Submission Notes
-
-Include **only**:
-
-- `include/*.h`, `src/*.cpp`
-- `gui_qt/MainWindow.h`, `gui_qt/MainWindow.cpp`, `gui_qt/main_qt.cpp`
-- `class-diagram.puml`, `CITATIONS.md`
-
-Exclude build artifacts, IDE files, and binaries (e.g., `build*/`, `*_autogen/`, `Release/`, `.sln`, `.vcxproj*`, `.exe`, `.dll`).
-
----
-
 ## Troubleshooting
 
 - **“Could not find Qt6Config.cmake”**  
