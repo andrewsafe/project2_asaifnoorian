@@ -157,3 +157,9 @@ See **CITATIONS.md** for libraries/tools and AI assistance.
 You may add an OSS license (e.g., MIT) if publishing publicly.
 
 ---
+
+## for me
+
+cd $HOME\Desktop\project2_asaifnoorian\build_vs
+cmake --build . --config Release
+$env:Path = "$qtRoot\bin;$env:Path"; .\Release\project2_asaifnoorian.exe
